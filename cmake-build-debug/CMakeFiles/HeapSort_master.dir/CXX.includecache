@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/LuiizMusic11/Desktop/HeapSort-master/Heap.cpp
+stddef.h
+-
+time.h
+-
+stdlib.h
+-
+Heap.h
+/Users/LuiizMusic11/Desktop/HeapSort-master/Heap.h
+
+/Users/LuiizMusic11/Desktop/HeapSort-master/Heap.h
+
+/Users/LuiizMusic11/Desktop/HeapSort-master/main.cpp
+iostream
+-
+Heap.h
+/Users/LuiizMusic11/Desktop/HeapSort-master/Heap.h
+
